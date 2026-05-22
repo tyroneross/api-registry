@@ -1,0 +1,5 @@
+{
+  "_comment": "Copy this file to ~/.api-registry/owned.json and edit it. Services whose name is listed in `projects`, or whose npm package id matches a glob in `scopes`, are marked author_owned in the registry DB and are exempt from the package-install cooldown. This file is read by `init` at registry bootstrap; it is never committed to a repo.",
+  "scopes": ["@yourscope/*"],
+  "projects": []
+}
