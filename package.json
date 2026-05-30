@@ -1,6 +1,6 @@
 {
   "name": "api-registry",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Local registry of authoritative API/library/tool sources for Claude Code",
   "type": "module",
   "scripts": {
