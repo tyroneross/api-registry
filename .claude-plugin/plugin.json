@@ -1,6 +1,5 @@
 {
   "name": "api-registry",
-  "version": "0.2.0",
   "description": "Local doc-content cache + authoritative API source registry with a 7-day freshness contract",
   "author": "Tyrone Ross",
   "commands": [
